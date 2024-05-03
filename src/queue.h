@@ -39,7 +39,7 @@
     extern "C" {
 #endif
 /* *INDENT-ON* */
-
+#include "Arduino_FreeRTOS.h"
 #include "task.h"
 
 /**
